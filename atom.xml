@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[OC6]]></title>
+  <link href="http://ivandj.github.io/oc6/atom.xml" rel="self"/>
+  <link href="http://ivandj.github.io/oc6/"/>
+  <updated>2013-12-27T22:38:57-05:00</updated>
+  <id>http://ivandj.github.io/oc6/</id>
+  <author>
+    <name><![CDATA[Ivan Djordjevic]]></name>
+    <email><![CDATA[ivandj@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA['Deploying Octopress to Github Pages']]></title>
+    <link href="http://ivandj.github.io/oc6/blog/2013-12-27/deploying-octopress-to-github-pages/"/>
+    <updated>2013-12-27T22:36:07-05:00</updated>
+    <id>http://ivandj.github.io/oc6/blog/2013-12-27/deploying-octopress-to-github-pages</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
